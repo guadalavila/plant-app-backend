@@ -12,7 +12,7 @@ const start = async () => {
     // connect to db
     await connectDb();
     app.use(bodyParser.json({ limit: "50mb" }));
-    // setup routes
+    
     app.get('/', (req, res) => res.send('Server plant App is Up! '));
     app.use("/api/tip", tipRoutes);
     app.use("/api/banners", bannerRoutes);
