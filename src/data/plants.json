@@ -1,0 +1,212 @@
+{
+  "category": "Plants",
+  "name": "Plantas",
+  "products": [
+    {
+      "id": 1,
+      "name": "STRELITZIA NICOLAI",
+      "price": 5800,
+      "houseplant": true,
+      "stock": true
+    },
+    {
+      "id": 2,
+      "name": "DRACAENA MASSANGEANA",
+      "price": 480,
+      "houseplant": true,
+      "stock": true
+    },
+    {
+      "id": 3,
+      "name": "FICUS PANDURATA",
+      "price": 2900,
+      "houseplant": true,
+      "stock": true
+    },
+    {
+      "id": 4,
+      "name": "SPATHIPHYLLUM",
+      "price": 1100,
+      "houseplant": true,
+      "stock": true
+    },
+    {
+      "id": 5,
+      "name": "DRACENA MARGINATA",
+      "price": 28004,
+      "houseplant": false,
+      "stock": true
+    },
+    {
+      "id": 6,
+      "name": "RAPHIS",
+      "price": 2900,
+      "houseplant": true,
+      "stock": true
+    },
+    {
+      "id": 7,
+      "name": "ESTRELLA FEDERAL",
+      "price": 820,
+      "houseplant": true,
+      "stock": false
+    },
+    {
+      "id": 8,
+      "name": "CRASAS",
+      "price": 150,
+      "houseplant": false,
+      "stock": true
+    },
+    {
+      "id": 9,
+      "name": "SANSEVIERA",
+      "price": 550,
+      "houseplant": false,
+      "stock": true
+    },
+    {
+      "id": 10,
+      "name": "GERANIOS",
+      "price": 480,
+      "houseplant": false,
+      "stock": true
+    },
+    {
+      "plantId": 2,
+      "id": 11,
+      "name": "MALVON ITALIANO",
+      "price": 420,
+      "houseplant": false,
+      "stock": true
+    },
+    {
+      "plantId": 2,
+      "id": 12,
+      "name": "PLECTRANTHUS",
+      "price": 490,
+      "houseplant": false,
+      "stock": true
+    },
+    {
+      "plantId": 2,
+      "id": 13,
+      "name": "POTHUS LEMON",
+      "price": 540,
+      "houseplant": false,
+      "stock": true
+    },
+    {
+      "plantId": 2,
+      "id": 14,
+      "name": "FICUS HAWAII",
+      "price": 980,
+      "houseplant": true,
+      "stock": true
+    },
+    {
+      "plantId": 2,
+      "id": 15,
+      "name": "ASPIDISTRA",
+      "price": 780,
+      "houseplant": true,
+      "stock": true
+    },
+    {
+      "plantId": 2,
+      "id": 16,
+      "name": "FITTONIA",
+      "price": 390,
+      "houseplant": true,
+      "stock": true
+    },
+    {
+      "plantId": 2,
+      "id": 17,
+      "name": "HIEDRA MINI",
+      "price": 180,
+      "houseplant": true,
+      "stock": true
+    },
+    {
+      "plantId": 2,
+      "id": 18,
+      "name": "HELECHO ARROZ",
+      "price": 490,
+      "houseplant": true,
+      "stock": true
+    },
+    {
+      "plantId": 2,
+      "id": 19,
+      "name": "NOLINA",
+      "price": 3500,
+      "houseplant": true,
+      "stock": true
+    },
+    {
+      "plantId": 2,
+      "id": 20,
+      "name": "ALEGRIAS DEL HOGAR",
+      "price": 90,
+      "houseplant": false,
+      "stock": true
+    },
+    {
+      "plantId": 3,
+      "id": 21,
+      "name": "AROMATICAS",
+      "price": 90,
+      "houseplant": false,
+      "stock": true
+    },
+    {
+      "plantId": 3,
+      "id": 22,
+      "name": "GERANIOS",
+      "price": 480,
+      "houseplant": false,
+      "stock": true
+    },
+    {
+      "plantId": 3,
+      "id": 23,
+      "name": "JAZMIN DE LECHE",
+      "price": 680,
+      "houseplant": false,
+      "stock": true
+    },
+    {
+      "plantId": 3,
+      "id": 24,
+      "name": "LAZO DE AMOR",
+      "price": 390,
+      "houseplant": false,
+      "stock": true
+    },
+    {
+      "plantId": 3,
+      "id": 25,
+      "name": "MALVON SIMPLE",
+      "price": 180,
+      "houseplant": false,
+      "stock": true
+    },
+    {
+      "plantId": 3,
+      "id": 26,
+      "name": "CACTUS",
+      "price": 160,
+      "houseplant": false,
+      "stock": true
+    },
+    {
+      "plantId": 3,
+      "id": 27,
+      "name": "ROMERO",
+      "price": 280,
+      "houseplant": false,
+      "stock": false
+    }
+  ]
+}

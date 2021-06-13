@@ -1,0 +1,48 @@
+{
+    "category": "Artificial",
+    "name": "Plantas Artificiales",
+    "products": [
+      {
+        "id": 1,
+        "name": "FICUS TUPIDO",
+        "price": 5100,
+        "stock": true
+      },
+      {
+        "id": 2,
+        "name": "PALMERA 3 VARAS",
+        "price": 12600,
+        "stock": true
+      },
+      {
+        "id": 3,
+        "name": "PHILODENDRO MISIONERO",
+        "price": 19850,
+        "stock": true
+      },
+      {
+        "id": 4,
+        "name": "COLA DE ZORRO",
+        "price": 5200,
+        "stock": true
+      },
+      {
+        "id": 5,
+        "name": "ORQUIDEA ARTIFICIAL",
+        "price": 3200,
+        "stock": true
+      },
+      {
+        "id": 6,
+        "name": "ALOCASIA",
+        "price": 12900,
+        "stock": false
+      },
+      {
+        "id": 7,
+        "name": "SANSEVIERIA",
+        "price": 12300,
+        "stock": true
+      }
+    ]
+}

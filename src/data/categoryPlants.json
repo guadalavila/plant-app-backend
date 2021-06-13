@@ -1,0 +1,90 @@
+[
+  {
+    "id": "new",
+    "name": "Nuevo",
+    "plants": [
+      {
+        "name": "STRELITZIA NICOLAI",
+        "image": "https://drive.google.com/uc?export=view&id=104R9NONTbtvkqd_lmyBQIA0wrR6ShRyK",
+        "price": 5800,
+        "houseplant": true,
+        "stock": true,
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
+      },
+      {
+        "name": "FICUS PANDURATA",
+        "image": "https://drive.google.com/uc?export=view&id=1bX69JvrusUnEGbFpd-OOo9ucMF6lEPg_",
+        "price": 2900,
+        "houseplant": true,
+        "stock": true,
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum."
+      },
+      {
+        "name": "HELECHO ARROZ",
+        "image": "https://drive.google.com/uc?export=view&id=1KdtMTayxQ1XTcgf7UTNFlvRH0fofWQnF",
+        "price": 490,
+        "houseplant": true,
+        "stock": true,
+        "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham."
+      }
+    ]
+  },
+  {
+    "id": "bestSeller",
+    "name": "Más Vendido",
+    "plants": [
+      {
+        "name": "NOLINA",
+        "image": "https://drive.google.com/uc?export=view&id=1N3HDEvdtSpYS7b2n2vCH7q4LyNr4U9id",
+        "price": 3500,
+        "houseplant": true,
+        "stock": true,
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione."
+      },
+      {
+        "name": "ALEGRIAS DEL HOGAR",
+        "image": "https://drive.google.com/uc?export=view&id=1HQiI20HAPikX5vrEEgy4x2Wp5gPK6qg9",
+        "price": 90,
+        "houseplant": false,
+        "stock": true,
+        "description": "Circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure."
+      }
+    ]
+  },
+  {
+    "id": "interior",
+    "name": "De Interior",
+    "plants": [
+      {
+        "name": "FITTONIA",
+        "image": "https://drive.google.com/uc?export=view&id=1bysQ3r8ufMHBc0ASxTHIDz0izyMSpcwF",
+        "price": 390,
+        "houseplant": true,
+        "stock": true,
+        "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire."
+      },
+      {
+        "name": "HIEDRA MINI",
+        "image": "https://drive.google.com/uc?export=view&id=1HQiI20HAPikX5vrEEgy4x2Wp5gPK6qg9",
+        "price": 180,
+        "houseplant": true,
+        "stock": true,
+        "description": "Duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
+      }
+    ]
+  },
+  {
+    "id": "sale",
+    "name": "Oferta",
+    "plants": [
+      {
+        "name": "PALA REFORZADA ZINCADA",
+        "image": "https://drive.google.com/uc?export=view&id=1-xsJymmDzC00R6QjZRBbkdX7GKe_hy70",
+        "price": 1590,
+        "houseplant": false,
+        "stock": false,
+        "description": "Earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+      }
+    ]
+  }
+]

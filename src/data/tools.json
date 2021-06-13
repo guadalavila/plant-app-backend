@@ -1,0 +1,48 @@
+{
+    "category": "Tools",
+    "name": "Herramientas",
+    "products": [
+      {
+        "id": 1,
+        "name": "PALA REFORZADA ZINCADA",
+        "price": 590,
+        "stock": false
+      },
+      {
+        "id": 2,
+        "name": "PALA ANCHA DE MANO",
+        "price": 490,
+        "stock": true
+      },
+      {
+        "id": 3,
+        "name": "PALA ANGOSTA DE MANO",
+        "price": 490,
+        "stock": true
+      },
+      {
+        "id": 4,
+        "name": "RASTRILLO",
+        "price": 760,
+        "stock": true
+      },
+      {
+        "id": 5,
+        "name": "GUANTES EXTRA REFORZADOS(AMARILLOS)",
+        "price": 590,
+        "stock": false
+      },
+      {
+        "id": 6,
+        "name": "PALA CUADRADA DE MANGO CORTO",
+        "price": 990,
+        "stock": true
+      },
+      {
+        "id": 7,
+        "name": "PALA REDONDA DE MANGO CORTO",
+        "price": 3500,
+        "stock": true
+      }
+    ]
+}
